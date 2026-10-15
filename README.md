@@ -17,4 +17,4 @@ O Checklist Web é uma ferramenta muito usada na entrada e organização de pess
 
 O Checklist Web funciona para sistema Android e IOS, sendo aberto inteiramente no navegador do usuário, sem dependências externas como banco de dados.
 
-Link: https://saikihector.github.io/Check-list/
+Link: [Checklist Web](https://saikihector.github.io/Check-list/)
