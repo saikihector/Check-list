@@ -12,6 +12,7 @@ O Checklist Web é uma ferramenta muito usada na entrada e organização de pess
 - A lista ordena automaticamente os nomes na ordem alfabética, ou seja, A-Z
 - Para apagar a lista do Checklist Web, é necessário fazer um pequeno passo de segurança escrevendo "Apagar" no campo indicado
 - Há a possibilidade de adicionar mais pessoas mesmo após importar ou ter editado a lista anteriormente
+- O sistema não possui sincronização com outros usuários do mesmo projeto, sendo individual, pela ausência de um banco de dados
 
 ## Link para acesso
 
