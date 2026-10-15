@@ -4,7 +4,7 @@ O Checklist Web é uma ferramenta muito usada na entrada e organização de pess
 
 ## Como funciona?
 
-- Você acessa o link disponível neste repositório e abre em seu navegador
+- Acesse o link disponível neste repositório e abre em seu navegador
 - Você terá a possibilidade de importar nomes manualmente (digitando nome por nome por linha) ou importar arquivos prontos com extensões como .xlsx, .txt, .csv
 - O sistema conta com uma trava de segurança para evitar a edição da lista por engano ou por um simples esbarrar na tela
 - O usuário pode exportar a lista de convidados já pronta no Checklist Web para compartilhar com outras pessoas, sendo compartilhado o arquivo com extensão .csv
