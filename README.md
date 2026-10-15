@@ -1,8 +1,8 @@
-## Checklist Web
+# Checklist Web
 
-# O Checklist Web é uma ferramenta muito usada na entrada e organização de pessoas convidadas para o evento. Este modelo é gratuito, sem limite de quantidade de pessoas (nomes), sem cobranças adicionais futuras.
+## O Checklist Web é uma ferramenta muito usada na entrada e organização de pessoas convidadas para o evento. Este modelo é gratuito, sem limite de quantidade de pessoas (nomes), sem cobranças adicionais futuras.
 
-# Como funciona?
+## Como funciona?
 
 - Você acessa o link disponível neste repositório e abre em seu navegador
 - Você terá a possibilidade de importar nomes manualmente (digitando nome por nome por linha) ou importar arquivos prontos com extensões como .xlsx, .txt, .csv
