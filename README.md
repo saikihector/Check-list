@@ -1,6 +1,6 @@
 # Checklist Web
 
-## O Checklist Web é uma ferramenta muito usada na entrada e organização de pessoas convidadas para o evento. Este modelo é gratuito, sem limite de quantidade de pessoas (nomes), sem cobranças adicionais futuras.
+O Checklist Web é uma ferramenta muito usada na entrada e organização de pessoas convidadas para o evento. Este modelo é gratuito, sem limite de quantidade de pessoas (nomes), sem cobranças adicionais futuras.
 
 ## Como funciona?
 
@@ -12,3 +12,9 @@
 - A lista ordena automaticamente os nomes na ordem alfabética, ou seja, A-Z
 - Para apagar a lista do Checklist Web, é necessário fazer um pequeno passo de segurança escrevendo "Apagar" no campo indicado
 - Há a possibilidade de adicionar mais pessoas mesmo após importar ou ter editado a lista anteriormente
+
+## Link para acesso
+
+O Checklist Web funciona para sistema Android e IOS, sendo aberto inteiramente no navegador do usuário, sem dependências externas como banco de dados.
+
+Link: https://saikihector.github.io/Check-list/
